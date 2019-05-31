@@ -9,9 +9,11 @@ export default function ListDetails() {
         <div className="card-header">Asistencias</div>
         <div className="card-body">
           <blockquote className="blockquote mb-0">
+            <h2>
+              42 de 49  
+            </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              posuere erat a ante.
+              Estudiantes
             </p>
             <footer className="">
             <Link to='/about' className="btn btn-warning">Ver más</Link>
@@ -23,9 +25,11 @@ export default function ListDetails() {
         <div className="card-header">Ausencias</div>
         <div className="card-body">
           <blockquote className="blockquote mb-0">
+            <h2>
+              5  
+            </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              posuere erat a ante.
+              Estudiantes
             </p>
             <footer className="">
                <Link to='/about' className="btn btn-warning">Ver más</Link>
@@ -37,26 +41,14 @@ export default function ListDetails() {
         <div className="card-header">Retardos</div>
         <div className="card-body">
           <blockquote className="blockquote mb-0">
+            <h2>
+              2  
+            </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              posuere erat a ante.
+              Estudiantes
             </p>
             <footer className="">
                <Link to='/about' className="btn btn-warning">Ver más</Link>
-            </footer>
-          </blockquote>
-        </div>
-      </div>
-      <div className="col card">
-        <div className="card-header">Abandonos</div>
-        <div className="card-body">
-          <blockquote className="blockquote mb-0">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              posuere erat a ante.
-            </p>
-            <footer className="">
-            <Link to='/about' className="btn btn-warning">Ver más</Link>
             </footer>
           </blockquote>
         </div>

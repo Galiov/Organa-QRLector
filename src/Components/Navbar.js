@@ -9,12 +9,12 @@ class Navbar extends Component {
             <div>
 
                 <nav className="navbar navbar-dark bg">
-                    <Link to='/' className="navbar-brand">
-                        <img className='home' src="https://lh3.googleusercontent.com/oH2RckQ3nS6kUvyvEfDw66dwwvybKwpqDwev3WS97NEhZTPKPKRYyfU84zPS34RW20bPjLsGqmTOBdW-z_tkgOmQGgTzyI3KeznDouumvv43ToThhZIIVqIpJ9k2hzqHVVfVrQzUX-UEx3fVXaikvqzkM1ovXFTu4ItlCustG-OCX_0DQbbG3wSgW7dMKwbCr1Uf3eKXoOj1NjyIrLE-YxGMgDZ_Ww7KA-LXxqSE7WoNd7IEMAH8e3XAdKTSPL5fdeH_xlwC2anO8zrEyB4xGhIAd3DzfylS0jFa8MOc34zwiCPTHTo4Hb_O5uN5dKZGkzf3hTALYlwcCMSgMHDBmO4sdvxOYjsZd5xFQJ4BjD_NLegyFFXBAua41VOjdPLlrtxP-CYgCXhKluU88Sx6S2e54RlcTz3LZVuG5K5ZI06A5ntjBsHxpb65Mm6VLuuHqf1-WT8pSIwxQ9T6H8efZ9yPZ9Ioe7D7gwL6awjpqzYPq529grkyhq8Nlgfl5edfBtw4qOW8s8r3ujfLKUSHQOx3Kz0PjbILt-n9dV83IJzYEr6o65hmB03IURDCpq0_Q_B3gADGK2dqvr9WJKJ86Yv1P7wXHTRgRlQ0A7tKnqG45rLaYCESFMr2ohM84H0IOo62MzV3mXwF1JfxgiN43C6XAakDEIk2gUiAxq7SNn8tWKJfJ3mhlx7LBmLDiig_U0k-PWyGH0Zs3tbZ4Q=s512-no" alt=""></img>
+                    <Link to='/details' className="navbar-brand">
+                        <img className='home' src="https://lh3.googleusercontent.com/BuwY004a35U2F5Qj62sa8zdR0h-1WGusk95TQOewSEAtSHlNO9xirt-Pse5THAOonxh5GFS66dlNNl59weszYp8w9pD5NOJJ9g780c7nX9gnpCnpbaQN_s77Wdr67V9hkhcO1Mk7wgYqpW-poZssP4UHg9ceC7vuSMjEySq7MXtF72zDwsDkfNHub4S4n8V24A249_UXVFs7_CH8U2jEbKfPDEpRtCz_iaPZSOK9K6rwhd_mxyu8wyGK5p6tkgkANM5IYFJhz6DPztud8VuelCU-SmJ9enLQ8dm9PpUQPYOI1Xce5gjddwTehTgiVcPgoFw13QAPuXnV3Ld3iLAS5bC7WCuC4AyeioDQwF1i1dKvCOU6q4uGjtIqX7AsxeczHoJbK6Ip5TdZ4OPGXvhcXfiMNRWgPZ68qAOTI5HEJQ_p4isumMR5zmxZSOlJq_1BSPI1GzZsuzNoowDSv_nvwtldaYKvRGyDKK0VqESxYAQ4CCTfvVdBxDnmAGtF_DWQRE22kGkSqb6r1h5Y9AKLoJdlbb4202XaNZSWWzr_sojRf-NAXLnv-AqjokkSlTnuTeTAWYN4fLRqAg3iPGC4MJt2cjGNqqQGeChXkBcgf78Qs-KiJ_58Bi34fivlO_CpzmIX1olPS30B_QSI9gb6OBzC=s256-no" alt=""></img>
                     </Link>
-                    <Time />
-                    <Link to='/details'>
-                        <button type="button" className="btn btn-dark btn-lg" >Detalles</button>
+                    
+                    <Link to='/start'>
+                        <button type="button" className="btn btn-dark btn-lg" >Activar QR Lector</button>
                     </Link>
                 </nav>
             </div>
