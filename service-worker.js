@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Organa-QRLector/precache-manifest.cea3e4907e5f538071040227bbe458bd.js"
+  "/Organa-QRLector/precache-manifest.28667f30ddf3bf0f7dbab922f6177a6a.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "333ceaf1f91bb1d7785d32c071168f02",
+    "revision": "709930355661ee8cf3e4464311b2182c",
     "url": "/Organa-QRLector/index.html"
   },
   {
-    "revision": "6dca3d1d1bd06a26c02e",
+    "revision": "8228807f02e80273af7d",
     "url": "/Organa-QRLector/static/css/main.f29f2c01.chunk.css"
   },
   {
-    "revision": "464dcd41f8bcd6b36c6b",
-    "url": "/Organa-QRLector/static/js/2.9b438469.chunk.js"
+    "revision": "507d33e37aae6427d153",
+    "url": "/Organa-QRLector/static/js/2.56fc6c5c.chunk.js"
   },
   {
-    "revision": "6dca3d1d1bd06a26c02e",
-    "url": "/Organa-QRLector/static/js/main.9efade74.chunk.js"
+    "revision": "8228807f02e80273af7d",
+    "url": "/Organa-QRLector/static/js/main.fa8df06a.chunk.js"
   },
   {
     "revision": "7c98fa53b405363d59e1",

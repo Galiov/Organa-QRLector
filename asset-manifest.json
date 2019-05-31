@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Organa-QRLector/static/css/main.f29f2c01.chunk.css",
-    "main.js": "/Organa-QRLector/static/js/main.9efade74.chunk.js",
-    "main.js.map": "/Organa-QRLector/static/js/main.9efade74.chunk.js.map",
+    "main.js": "/Organa-QRLector/static/js/main.fa8df06a.chunk.js",
+    "main.js.map": "/Organa-QRLector/static/js/main.fa8df06a.chunk.js.map",
     "runtime~main.js": "/Organa-QRLector/static/js/runtime~main.75f42d65.js",
     "runtime~main.js.map": "/Organa-QRLector/static/js/runtime~main.75f42d65.js.map",
-    "static/js/2.9b438469.chunk.js": "/Organa-QRLector/static/js/2.9b438469.chunk.js",
-    "static/js/2.9b438469.chunk.js.map": "/Organa-QRLector/static/js/2.9b438469.chunk.js.map",
+    "static/js/2.56fc6c5c.chunk.js": "/Organa-QRLector/static/js/2.56fc6c5c.chunk.js",
+    "static/js/2.56fc6c5c.chunk.js.map": "/Organa-QRLector/static/js/2.56fc6c5c.chunk.js.map",
     "index.html": "/Organa-QRLector/index.html",
-    "precache-manifest.cea3e4907e5f538071040227bbe458bd.js": "/Organa-QRLector/precache-manifest.cea3e4907e5f538071040227bbe458bd.js",
+    "precache-manifest.28667f30ddf3bf0f7dbab922f6177a6a.js": "/Organa-QRLector/precache-manifest.28667f30ddf3bf0f7dbab922f6177a6a.js",
     "service-worker.js": "/Organa-QRLector/service-worker.js",
     "static/css/main.f29f2c01.chunk.css.map": "/Organa-QRLector/static/css/main.f29f2c01.chunk.css.map"
   }
