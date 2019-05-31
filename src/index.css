@@ -24,7 +24,9 @@ code {
   margin: 1rem;
   text-align: center;
 }
-
+.welcome{
+  font-size: 1.5em;
+}
 
 .card{
   

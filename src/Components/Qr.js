@@ -5,7 +5,7 @@ class Test extends Component {
   constructor(props){
     super(props)
     this.state = {
-      delay: 100,
+      delay: 300,
       result: 'No result',
     }
  
@@ -22,7 +22,7 @@ class Test extends Component {
   render(){
     const previewStyle = {
       height: 240,
-      width: 320,
+      width: "100%",
     }
  
     return(
@@ -33,7 +33,7 @@ class Test extends Component {
           onError={this.handleError}
           onScan={this.handleScan}
           />
-        <p>{this.state.result}</p>
+         <p className="welcome">Bienvenida {this.state.result}, ten un hermoso día</p> 
       </div>
     )
   }
